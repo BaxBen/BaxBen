@@ -2,3 +2,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 * 🌍  I'm based in I live and work in Russia in the city of Tyumen
+* 🧠  I'm learning I am taking courses on Neural Network development
